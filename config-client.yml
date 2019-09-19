@@ -3,7 +3,7 @@
     active:
     - dev
 ---
-content: 没更新内容
+content: 更新了内容
 server:
   port: 6001
 spring:
